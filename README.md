@@ -4,4 +4,4 @@ Just a fun little personal app I made so I could read research papers at Uni fas
 Customize text size, and text centering, & font, and background colors.  
 I also considered adding a full page reading mode with a darkened first half of the word, which also maximizes reading speed, and text-to-speech, but found other methods to meet such needs.  
 
-Copyright © Elias Puolakka 2022-2024.  
+Copyright © Elias Puolakka 2022-2024.    
